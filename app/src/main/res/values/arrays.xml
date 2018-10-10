@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food">
+        <item>떡볶이</item>
+        <item>찹쌀탕수육</item>
+        <item>순대국</item>
+        <item>차돌짬뽕</item>
+        <item>감자탕</item>
+        <item>추어탕</item>
+        <item>김치찌개</item>
+        <item>메밀소바</item>
+        <item>김치나베</item>
+        <item>뿌링클치킨</item>
+    </string-array>
+
+</resources>
